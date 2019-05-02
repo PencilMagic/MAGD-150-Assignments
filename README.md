@@ -1,31 +1,31 @@
 # MAGD-150-Assignments
 
-## Project 1
+## Orginization
 
-### explantion
+### Attempt to make the code easier to understand in multiple tabs
 
-link
+[Orginization](https://github.com/PencilMagic/MAGD-150-Assignments/blob/gh-pages/zippy%20week%206.zip)
 
-## Project 2
+## Transfomation
 
-### explantion
+### shows the manipulation of size.
 
-link
+[Transformation](https://github.com/PencilMagic/MAGD-150-Assignments/blob/gh-pages/zippy%20folder%20week%207.zip)
 
-## Project 3
+## Text
 
-### explantion
+### shows how to manipulate text based stuff
 
-link
+[text](https://github.com/PencilMagic/MAGD-150-Assignments/blob/gh-pages/Zippy%20folder%20week%208.zip)
 
-## Project 4
+## Images and Sound
 
-### explantion
+### shows how to implement images and sound
 
-link
+[image and sound](https://github.com/PencilMagic/MAGD-150-Assignments/blob/gh-pages/zippy%20folder%20week%209.zip)
 
-## Project 5
+## 3d
 
-### explantion
+### a simple 3d code that shows lighting for 3d models.
 
-link
+[3d](https://github.com/PencilMagic/MAGD-150-Assignments/blob/gh-pages/zippy%20folder%20week%2010.zip)
